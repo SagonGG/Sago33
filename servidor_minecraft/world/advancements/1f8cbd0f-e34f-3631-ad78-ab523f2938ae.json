@@ -1739,6 +1739,7 @@
       "minecraft:piglin_brute": "2025-05-11 04:14:48 +0000",
       "minecraft:creeper": "2025-05-12 04:59:52 +0000",
       "minecraft:phantom": "2025-05-08 00:51:53 +0000",
+      "minecraft:zombified_piglin": "2025-05-17 06:33:19 +0000",
       "minecraft:wither_skeleton": "2025-05-12 04:37:15 +0000",
       "minecraft:cave_spider": "2025-05-11 01:24:59 +0000",
       "minecraft:piglin": "2025-05-11 04:15:20 +0000",
@@ -8988,6 +8989,18 @@
   "backpacked:recipes/misc/backpack": {
     "criteria": {
       "has_hide": "2025-05-17 05:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-17 06:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-17 06:26:15 +0000"
     },
     "done": true
   },

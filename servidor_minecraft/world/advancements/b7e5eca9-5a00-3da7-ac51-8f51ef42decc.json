@@ -1764,6 +1764,7 @@
       "minecraft:spider": "2025-05-04 03:04:46 +0000",
       "minecraft:piglin_brute": "2025-05-11 05:34:07 +0000",
       "minecraft:creeper": "2025-05-16 23:48:42 +0000",
+      "minecraft:wither": "2025-05-17 06:36:03 +0000",
       "minecraft:evoker": "2025-05-11 02:34:54 +0000",
       "minecraft:phantom": "2025-05-17 01:02:45 +0000",
       "minecraft:zombified_piglin": "2025-05-17 04:38:17 +0000",
@@ -9046,6 +9047,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-05-17 06:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-17 06:18:01 +0000"
@@ -9071,6 +9078,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-17 06:31:36 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-17 06:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-17 06:18:01 +0000"
@@ -9092,6 +9111,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-05-17 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-17 06:31:36 +0000"
     },
     "done": true
   },
@@ -9215,6 +9240,18 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-17 06:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-17 06:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-05-17 05:28:32 +0000"
@@ -9263,6 +9300,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-17 06:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-17 06:18:01 +0000"
@@ -9290,6 +9333,12 @@
   "netherexp:recipes/misc/soul_magma_block": {
     "criteria": {
       "has_item": "2025-05-17 06:02:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-17 06:31:36 +0000"
     },
     "done": true
   },
@@ -9332,6 +9381,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-05-17 06:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-17 06:36:04 +0000"
     },
     "done": true
   },
@@ -9395,6 +9450,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-05-17 06:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-17 06:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-17 06:18:01 +0000"
@@ -9422,6 +9489,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-05-17 06:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-17 06:22:16 +0000"
     },
     "done": true
   },
