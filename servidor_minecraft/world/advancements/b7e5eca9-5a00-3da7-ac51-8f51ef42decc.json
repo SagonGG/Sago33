@@ -1757,6 +1757,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-10 05:25:20 +0000",
+      "minecraft:blaze": "2025-05-17 05:44:37 +0000",
       "minecraft:skeleton": "2025-05-04 04:36:18 +0000",
       "minecraft:vindicator": "2025-05-11 01:52:55 +0000",
       "minecraft:magma_cube": "2025-05-11 00:54:31 +0000",
@@ -1766,6 +1767,7 @@
       "minecraft:evoker": "2025-05-11 02:34:54 +0000",
       "minecraft:phantom": "2025-05-17 01:02:45 +0000",
       "minecraft:zombified_piglin": "2025-05-17 04:38:17 +0000",
+      "minecraft:wither_skeleton": "2025-05-17 05:46:24 +0000",
       "minecraft:husk": "2025-05-06 20:43:45 +0000",
       "minecraft:cave_spider": "2025-05-11 01:21:35 +0000",
       "minecraft:piglin": "2025-05-11 04:16:03 +0000",
@@ -4680,6 +4682,7 @@
       "fletcher": "2025-05-04 03:29:10 +0000",
       "woodworker": "2025-05-04 03:49:47 +0000",
       "librarian": "2025-05-10 03:30:27 +0000",
+      "miner": "2025-05-17 05:37:40 +0000",
       "armorer": "2025-05-04 05:18:41 +0000",
       "farmer": "2025-05-04 03:32:42 +0000",
       "hunter": "2025-05-04 05:25:31 +0000"
@@ -9043,15 +9046,76 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-17 05:46:16 +0000",
+      "minecraft:nether_wastes": "2025-05-17 05:41:15 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-05-17 04:55:57 +0000"
     },
     "done": false
   },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/nether_brick_smoker": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-05-17 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-17 05:44:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-17 05:41:14 +0000"
     },
     "done": true
   },
@@ -9061,9 +9125,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-05-17 05:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-17 05:41:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-05-17 05:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-17 05:44:24 +0000"
     },
     "done": true
   },

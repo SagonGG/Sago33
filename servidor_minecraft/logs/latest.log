@@ -2893,3 +2893,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 ]
 [17May2025 05:34:14.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=63, z=1237} BlockPos{x=-289, y=61, z=1237}
 [17May2025 05:35:38.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
+[17May2025 05:39:43.514] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:39:43.515] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 207168
+}
+[17May2025 05:39:43.515] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[17May2025 05:39:43.515] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Q+Wm%HS<+`4801#Nx"
+]
+[17May2025 05:41:14.441] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[17May2025 05:41:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [We Need to Go Deeper]
+[17May2025 05:41:45.257] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/37028, l='ServerLevel[world]', x=123.00, y=31.00, z=404.00] as it would cause deadlock
+[17May2025 05:43:44.857] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/37741, l='ServerLevel[world]', x=-229.00, y=31.00, z=585.00] as it would cause deadlock
+[17May2025 05:44:09.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=46, z=398} BlockPos{x=-192, y=50, z=400}
+[17May2025 05:44:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [A Terrible Fortress]
+[17May2025 05:44:37.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santix15> uuuuuuf
+[17May2025 05:45:20.056] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:45:20.056] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1967074
+}
+[17May2025 05:45:20.057] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[17May2025 05:45:20.057] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "lYl_5w1c,6UY480=?52jUxg"
+]
+[17May2025 05:45:50.235] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:45:50.236] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 47
+}
+[17May2025 05:45:50.236] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:45:50.236] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "UjIDc/6ub;z?Rgdo304==|hq"
+]
+[17May2025 05:46:52.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38817, l='ServerLevel[world]', x=-335.36, y=-256.00, z=1106.68] died, message: 'Unemployed was killed'
+[17May2025 05:47:40.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lobo3224 has made the advancement [It's Teleporting!]
