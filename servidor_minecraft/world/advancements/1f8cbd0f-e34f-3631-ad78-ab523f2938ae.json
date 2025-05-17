@@ -8781,18 +8781,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-17 04:26:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-05-17 04:26:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_bath": {
     "criteria": {
       "has_blue_dye": "2025-05-17 04:26:29 +0000"
@@ -8817,12 +8805,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-05-17 04:26:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-17 04:26:29 +0000"
@@ -8844,12 +8826,6 @@
   "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
     "criteria": {
       "has_blue_dye": "2025-05-17 04:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-05-17 05:26:01 +0000"
     },
     "done": true
   },
@@ -8919,24 +8895,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-17 04:26:41 +0000"
-    },
-    "done": true
-  },
-  "backpacked:recipes/misc/backpack": {
-    "criteria": {
-      "has_hide": "2025-05-17 05:26:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-05-17 04:26:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-17 04:26:29 +0000"
@@ -8961,12 +8919,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-05-17 04:26:41 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-17 04:26:29 +0000"
@@ -8988,6 +8940,54 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-05-17 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-17 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-17 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-17 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-17 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-17 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-17 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-05-17 05:26:01 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/misc/backpack": {
+    "criteria": {
+      "has_hide": "2025-05-17 05:26:01 +0000"
     },
     "done": true
   },

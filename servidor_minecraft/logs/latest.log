@@ -3002,3 +3002,54 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "jP7)-p2~304@2xE'|"
 ]
+[17May2025 06:11:45.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.4272341257293988
+[17May2025 06:11:46.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.3129389964731786
+[17May2025 06:11:46.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.5976255567950943
+[17May2025 06:11:46.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Automobile (vehicle of Santix15) moved wrongly! 0.8542623198920296
+[17May2025 06:14:10.425] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 06:14:10.426] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 37
+}
+[17May2025 06:14:10.426] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 06:14:10.426] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=u7{Q5G#ytb_tW320|I!"
+]
+[17May2025 06:15:26.607] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 06:15:26.607] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 71
+}
+[17May2025 06:15:26.607] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 06:15:26.608] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "gV$#2&cf=q.J*w320>>]"
+]
+[17May2025 06:16:05.585] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 06:16:05.585] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 59
+}
+[17May2025 06:16:05.586] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 06:16:05.586] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":-fKCw!J320{ZU"
+]
+[17May2025 06:18:08.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae timed out
+[17May2025 06:18:08.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Santix15
+[17May2025 06:18:08.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[17May2025 06:18:20.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[17May2025 06:18:21.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[17May2025 06:18:21.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
+[17May2025 06:18:23.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 lost connection: Disconnected
+[17May2025 06:18:23.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 left the game
+[17May2025 06:18:23.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Santix15
+[17May2025 06:18:35.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santix15[/127.239.12.135:44649] logged in with entity id 48907 at (-319.82851190185306, 68.0, 1147.0982771580987)
+[17May2025 06:18:35.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santix15 joined the game
+[17May2025 06:18:35.438] [Server thread/INFO] [Jade/]: Syncing config to Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae)
+[17May2025 06:18:36.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Santix15 (18)
+[17May2025 06:18:36.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Santix15
+[17May2025 06:18:44.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[17May2025 06:18:45.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1f8cbd0f-e34f-3631-ad78-ab523f2938ae
+[17May2025 06:18:45.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Santix15 (1f8cbd0f-e34f-3631-ad78-ab523f2938ae) successfully connected to voice chat
