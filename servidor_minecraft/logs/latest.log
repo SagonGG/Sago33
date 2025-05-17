@@ -2863,3 +2863,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
   "gMZ/vaJu480:_jp"
 ]
 [17May2025 05:28:26.697] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 05:29:05.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-293, y=81, z=1233} BlockPos{x=-294, y=79, z=1232}
+[17May2025 05:29:13.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=79, z=1241} BlockPos{x=-296, y=79, z=1240}
+[17May2025 05:29:32.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:32.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:33.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:29:33.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=80, z=1262} BlockPos{x=-297, y=79, z=1262}
+[17May2025 05:31:25.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-295, y=63, z=1237} BlockPos{x=-295, y=64, z=1237}
+[17May2025 05:31:25.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=64, z=1237} BlockPos{x=-295, y=64, z=1237}
+[17May2025 05:31:54.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-308, y=65, z=1242} BlockPos{x=-307, y=64, z=1241}
+[17May2025 05:33:54.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-283, y=64, z=1259} BlockPos{x=-284, y=64, z=1262}
+[17May2025 05:34:05.255] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:34:05.256] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2391
+}
+[17May2025 05:34:05.256] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[17May2025 05:34:05.256] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "!e]z*zR!^!b(480Pxf2P?T"
+]
+[17May2025 05:34:14.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=63, z=1237} BlockPos{x=-289, y=61, z=1237}
+[17May2025 05:35:38.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lobo3224 moved wrongly!
