@@ -9030,15 +9030,15 @@
     },
     "done": true
   },
-  "supplementaries:adventure/globe": {
-    "criteria": {
-      "unlock": "2025-05-16 23:56:11 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/soap/globe": {
     "criteria": {
       "has_globe_sepia": "2025-05-16 23:56:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-05-16 23:56:11 +0000"
     },
     "done": true
   },
