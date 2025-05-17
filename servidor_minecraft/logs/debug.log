@@ -9699,3 +9699,183 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [17May2025 05:15:55.417] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
 [17May2025 05:16:30.546] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [17May2025 05:17:37.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[17May2025 05:18:21.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[17May2025 05:18:21.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_0
+[17May2025 05:18:21.662] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_bridge
+[17May2025 05:18:21.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_3_0
+[17May2025 05:18:21.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_fishing_house
+[17May2025 05:18:21.667] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_straight_0
+[17May2025 05:18:21.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_turn_1
+[17May2025 05:18:21.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/brown_sorcerer_house
+[17May2025 05:18:21.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:decor/lamp_post
+[17May2025 05:18:21.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_nohouse
+[17May2025 05:18:21.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_deadend_0
+[17May2025 05:18:21.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_3
+[17May2025 05:18:21.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_fisherman
+[17May2025 05:18:21.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_2
+[17May2025 05:18:21.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_1
+[17May2025 05:18:21.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_sorcerer
+[17May2025 05:18:21.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_nitwit
+[17May2025 05:18:21.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/lg_brown_house_1
+[17May2025 05:18:21.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_brown_2
+[17May2025 05:18:21.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:ribbits/ribbit_merchant
+[17May2025 05:18:21.684] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:houses/small_house_red_3
+[17May2025 05:19:01.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 05:19:01.830] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 05:19:35.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 05:20:18.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[17May2025 05:20:44.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[17May2025 05:20:44.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/downstairs_pool/haunted_house_downstairs
+[17May2025 05:21:09.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[17May2025 05:21:18.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[17May2025 05:21:18.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[17May2025 05:21:18.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[17May2025 05:21:18.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[17May2025 05:21:18.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[17May2025 05:21:18.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[17May2025 05:21:18.907] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[17May2025 05:21:18.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[17May2025 05:21:18.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[17May2025 05:21:18.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[17May2025 05:21:18.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[17May2025 05:21:18.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[17May2025 05:21:18.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[17May2025 05:21:18.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[17May2025 05:21:18.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[17May2025 05:21:18.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[17May2025 05:21:18.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[17May2025 05:21:18.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[17May2025 05:21:18.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[17May2025 05:21:18.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[17May2025 05:21:18.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[17May2025 05:21:18.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[17May2025 05:21:18.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[17May2025 05:21:18.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[17May2025 05:21:18.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[17May2025 05:22:10.690] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[17May2025 05:22:16.991] [Worker-Main-2/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17May2025 05:22:16.992] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17May2025 05:22:21.330] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_08
+[17May2025 05:22:22.602] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[17May2025 05:22:24.565] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[17May2025 05:22:25.641] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[17May2025 05:22:25.683] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[17May2025 05:22:25.692] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[17May2025 05:22:27.817] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_08
+[17May2025 05:22:28.788] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[17May2025 05:22:28.823] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_01
+[17May2025 05:22:29.324] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[17May2025 05:22:31.191] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_16
+[17May2025 05:22:32.182] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_0_speed
+[17May2025 05:22:32.182] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_4_haste
+[17May2025 05:22:32.183] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_3_resistance
+[17May2025 05:22:32.184] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_effect_1_regen
+[17May2025 05:22:33.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid1
+[17May2025 05:22:33.763] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[17May2025 05:22:33.777] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[17May2025 05:22:33.790] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[17May2025 05:22:33.803] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[17May2025 05:22:33.816] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[17May2025 05:22:51.896] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:22:51.896] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 16
+}
+[17May2025 05:22:51.896] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:22:51.897] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "X1=->2e=Wv8480_.EX"
+]
+[17May2025 05:22:58.831] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[17May2025 05:23:25.592] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[17May2025 05:23:34.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[17May2025 05:23:34.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[17May2025 05:23:34.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[17May2025 05:23:34.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[17May2025 05:23:34.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[17May2025 05:23:34.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[17May2025 05:23:34.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[17May2025 05:23:34.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[17May2025 05:23:55.610] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[17May2025 05:23:55.658] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[17May2025 05:24:01.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 05:24:01.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 05:24:04.156] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:04.170] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:04.181] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:04.187] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2877, y=58, z=-2240}
+[17May2025 05:24:04.187] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:11.110] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:11.124] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2877, y=58, z=-2240}
+[17May2025 05:24:11.124] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:11.130] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2866, y=44, z=-2252}
+[17May2025 05:24:11.130] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2873, y=44, z=-2252}
+[17May2025 05:24:11.131] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2879, y=44, z=-2251}
+[17May2025 05:24:11.137] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:11.141] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:12.851] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[17May2025 05:24:13.953] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:13.956] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:13.963] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:13.966] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:13.968] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2866, y=44, z=-2252}
+[17May2025 05:24:13.968] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2873, y=44, z=-2252}
+[17May2025 05:24:13.968] [Worker-Main-28/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2873, y=44, z=-2265}
+[17May2025 05:24:14.807] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_06
+[17May2025 05:24:17.932] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:17.964] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:17.979] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2886, y=44, z=-2258}
+[17May2025 05:24:17.988] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:17.996] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:18.271] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2880, y=63, z=-2272}
+[17May2025 05:24:18.273] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2857, y=51, z=-2235}
+[17May2025 05:24:18.274] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2886, y=44, z=-2258}
+[17May2025 05:24:18.370] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[17May2025 05:24:29.128] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[17May2025 05:25:13.734] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:25:13.734] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 105
+}
+[17May2025 05:25:13.735] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:25:13.735] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9m+[{TMMo304XMCO\"B"
+]
+[17May2025 05:25:25.495] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[17May2025 05:25:28.817] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_05
+[17May2025 05:25:28.900] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[17May2025 05:26:13.804] [Worker-Main-28/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[17May2025 05:26:31.290] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[17May2025 05:26:31.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[17May2025 05:26:31.322] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[17May2025 05:26:31.322] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[17May2025 05:26:32.135] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[17May2025 05:26:32.144] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0 is being run through DFU (hash 227df976f5e96c1c7abcde4371685dd199f32cf418d794d2a4c66bf137aa418f), this will cause launch time delays
+[17May2025 05:26:32.424] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_pillager_0 is being run through DFU (hash 6eff5031ef7d716f5121d2e4f9fe2593e55a9d2fc76423d5d7c12b5e309de323), this will cause launch time delays
+[17May2025 05:26:32.443] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_evoker_0 is being run through DFU (hash 57739cc8b285e7f62ad804c42b8162264fff580438b26fe6b746127afe9cf810), this will cause launch time delays
+[17May2025 05:26:32.462] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[17May2025 05:27:21.195] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[17May2025 05:27:33.010] [Worker-Main-70/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[17May2025 05:28:14.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 96
+}
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "gMZ/vaJu480:_jp"
+]
+[17May2025 05:28:26.697] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air

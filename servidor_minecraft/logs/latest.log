@@ -2818,3 +2818,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [
   "[pZ[,`zPcL320:?;C"
 ]
+[17May2025 05:19:35.790] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 05:21:09.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santix15 moved wrongly!
+[17May2025 05:22:51.896] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:22:51.896] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 16
+}
+[17May2025 05:22:51.896] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:22:51.897] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "X1=->2e=Wv8480_.EX"
+]
+[17May2025 05:25:13.734] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:25:13.734] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 105
+}
+[17May2025 05:25:13.735] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:25:13.735] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9m+[{TMMo304XMCO\"B"
+]
+[17May2025 05:26:31.322] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[17May2025 05:28:14.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:14.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=81, z=1232} BlockPos{x=-284, y=80, z=1232}
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 96
+}
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[17May2025 05:28:26.547] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "gMZ/vaJu480:_jp"
+]
+[17May2025 05:28:26.697] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
