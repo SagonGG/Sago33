@@ -9043,5 +9043,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-17 04:55:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2025-05-17 05:02:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
