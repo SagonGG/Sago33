@@ -1762,7 +1762,9 @@
       "minecraft:magma_cube": "2025-05-11 00:54:31 +0000",
       "minecraft:spider": "2025-05-04 03:04:46 +0000",
       "minecraft:piglin_brute": "2025-05-11 05:34:07 +0000",
+      "minecraft:creeper": "2025-05-16 23:48:42 +0000",
       "minecraft:evoker": "2025-05-11 02:34:54 +0000",
+      "minecraft:phantom": "2025-05-17 01:02:45 +0000",
       "minecraft:husk": "2025-05-06 20:43:45 +0000",
       "minecraft:cave_spider": "2025-05-11 01:21:35 +0000",
       "minecraft:piglin": "2025-05-11 04:16:03 +0000",
@@ -8902,9 +8904,21 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_log": "2025-05-15 02:46:45 +0000"
+      "blaze_rod": "2025-05-15 02:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-15 02:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-15 02:28:52 +0000"
     },
     "done": true
   },
@@ -8914,21 +8928,33 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "blaze_rod": "2025-05-15 02:28:52 +0000"
+      "has_blaze_powder": "2025-05-15 02:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-15 02:28:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-05-15 02:31:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-15 02:46:45 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2025-05-15 02:46:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-15 02:28:53 +0000"
     },
     "done": true
   },
@@ -8956,12 +8982,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-05-15 02:28:53 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2025-05-15 02:46:45 +0000"
@@ -8986,27 +9006,9 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-05-15 02:58:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2025-05-15 02:31:45 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_desk": {
     "criteria": {
       "has_planks": "2025-05-15 02:46:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-05-15 02:28:52 +0000"
     },
     "done": true
   },
@@ -9022,9 +9024,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "has_blaze_rod": "2025-05-15 02:28:52 +0000"
+      "cured_zombie": "2025-05-15 02:58:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-05-16 23:56:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/globe": {
+    "criteria": {
+      "has_globe_sepia": "2025-05-16 23:56:02 +0000"
     },
     "done": true
   },
